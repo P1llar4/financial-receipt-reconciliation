@@ -1,0 +1,32 @@
+From receipts@example.invalid Sat Jan 10 10:00:00 2026
+From: receipts@example.invalid
+Subject: Example receipt DEMO-01
+X-Demo-Order: DEMO-01
+X-Demo-Total-USD: 14.50
+
+Example order DEMO-01 totals USD 14.50.
+
+From receipts@example.invalid Sat Jan 10 10:00:00 2026
+From: receipts@example.invalid
+Subject: Example receipt DEMO-02
+X-Demo-Order: DEMO-02
+X-Demo-Total-USD: 23.00
+
+Example order DEMO-02 totals USD 23.00.
+
+From receipts@example.invalid Sat Jan 10 10:00:00 2026
+From: receipts@example.invalid
+Subject: Example receipt DEMO-04
+X-Demo-Order: DEMO-04
+X-Demo-Total-USD: 11.00
+
+Example order DEMO-04 totals USD 11.00.
+
+From receipts@example.invalid Sat Jan 10 10:00:00 2026
+From: receipts@example.invalid
+Subject: Example receipt DEMO-05
+X-Demo-Order: DEMO-05
+X-Demo-Total-USD: 8.00
+
+Example order DEMO-05 totals USD 8.00.
+
